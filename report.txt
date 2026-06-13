@@ -1,0 +1,81 @@
+# Matrix Operations Tool Report
+
+## 1. Introduction
+
+The Matrix Operations Tool is a Python-based application developed to perform common matrix calculations efficiently. Matrices are widely used in mathematics, computer science, data analysis, machine learning, and engineering. This project provides a simple way to perform essential matrix operations through a command-line interface.
+
+## 2. Objective
+
+The primary objective of this project is to automate matrix calculations and help users perform mathematical operations without manual computation. The project also demonstrates the practical implementation of Python programming concepts such as loops, functions, lists, and conditional statements.
+
+## 3. Features
+
+* Matrix Addition
+* Matrix Subtraction
+* Matrix Multiplication
+* Matrix Transpose
+* Determinant Calculation
+* Input Validation
+* Error Handling
+
+## 4. Technologies Used
+
+* Programming Language: Python 3
+* Development Environment: VS Code / Any Python IDE
+* Libraries Used: Standard Python Libraries
+
+## 5. Working of the Project
+
+The user enters the dimensions and elements of the matrices. Based on the selected operation, the program processes the matrices and displays the result.
+
+### Operations Supported
+
+#### Matrix Addition
+
+Adds corresponding elements of two matrices having the same dimensions.
+
+#### Matrix Subtraction
+
+Subtracts corresponding elements of one matrix from another.
+
+#### Matrix Multiplication
+
+Multiplies two matrices when the number of columns in the first matrix equals the number of rows in the second matrix.
+
+#### Matrix Transpose
+
+Converts rows into columns and columns into rows.
+
+#### Determinant Calculation
+
+Calculates the determinant of a square matrix.
+
+## 6. Implementation Details
+
+The project is implemented using Python functions. Lists are used to store matrix elements, while loops and conditional statements handle matrix operations and user interactions.
+
+## 7. Advantages
+
+* Reduces manual calculation effort
+* Improves accuracy
+* Easy to use
+* Beginner-friendly implementation
+* Demonstrates practical use of Python programming
+
+## 8. Limitations
+
+* Command-line interface only
+* Limited to basic matrix operations
+* Large matrices may require optimization
+
+## 9. Future Enhancements
+
+* Matrix Inverse Calculation
+* Eigenvalue and Eigenvector Computation
+* Graphical User Interface (GUI)
+* Integration with NumPy
+* File-based Matrix Input
+
+## 10. Conclusion
+
+The Matrix Operations Tool successfully performs fundamental matrix calculations and demonstrates the application of Python programming in solving mathematical problems. The project provides a strong foundation for learning data structures, algorithms, and scientific computing concepts.
